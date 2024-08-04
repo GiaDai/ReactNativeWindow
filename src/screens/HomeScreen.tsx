@@ -19,6 +19,12 @@ const HomeScreen: React.FC<Props> = ({ navigation }) => {
       >
         <Text style={tw`text-white text-center`}>Go to Details</Text>
       </TouchableOpacity>
+        <TouchableOpacity
+            style={tw`bg-blue-500 px-4 py-2 rounded mt-4`}
+            onPress={() => navigation.navigate('Login')}
+        >
+            <Text style={tw`text-white text-center`}>Go to Login</Text>
+        </TouchableOpacity>
     </View>
   );
 };
