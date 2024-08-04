@@ -8,7 +8,7 @@
 
   <Identity
     Name="4a24c491-b3a4-4eb9-a124-e800a194c676"
-    Publisher="CN=soich"
+    Publisher="CN=LeAnhToan"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="4a24c491-b3a4-4eb9-a124-e800a194c676" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
